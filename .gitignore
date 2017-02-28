@@ -1,0 +1,4 @@
+config/cmc.json
+ignore
+node_modules
+npm-debug.log
