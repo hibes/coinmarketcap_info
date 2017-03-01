@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/hibes/coinmarketcap_info#readme",
   "dependencies": {
-    "lib-metered-api-regulation": "0.0.1"
+    "lib-metered-api-regulation": "0.0.2"
   }
 }
